@@ -6,7 +6,6 @@ class App extends React.Component {
   render() {
     return (
       <header>
-        <p>Sistema Solar</p>
         <Header />
         <SolarSystem />
       </header>
