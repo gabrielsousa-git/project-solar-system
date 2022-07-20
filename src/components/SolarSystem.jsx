@@ -5,8 +5,13 @@ import PlanetCard from './PlanetCard';
 
 class SolarSystem extends Component {
   render() {
-    // eslint-disable-next-line max-len
-    const planetHtmlElements = planets.map((planet) => <PlanetCard key={ planet.name } planetName={ planet.name } planetImage={ planet.image } />);
+    const planetHtmlElements = planets.map((planet) => (
+      <PlanetCard
+        key={ planet.name }
+        planetName={ planet.name }
+        planetImage={ planet.image }
+      />
+    ));
 
     return (
       <div data-testid="solar-system">
