@@ -1,13 +1,21 @@
-# :construction: README customizado em construção ! :construction:
-<!-- Olá, Tryber!
-Esse é apenas um arquivo inicial para o README do seu projeto no qual você pode customizar e reutilizar todas as vezes que for executar o trybe-publisher.
+# Boas-vindas ao repositório do projeto Sistema Solar!
 
-Para deixá-lo com a sua cara, basta alterar o seguinte arquivo da sua máquina: ~/.student-repo-publisher/custom/_NEW_README.md
+A proposta desse projeto foi iniciar os estudos em Front-end aprendendo a utilizar o React
 
-É essencial que você preencha esse documento por conta própria, ok?
-Não deixe de usar nossas dicas de escrita de README de projetos, e deixe sua criatividade brilhar!
-:warning: IMPORTANTE: você precisa deixar nítido:
-- quais arquivos/pastas foram desenvolvidos por você; 
-- quais arquivos/pastas foram desenvolvidos por outra pessoa estudante;
-- quais arquivos/pastas foram desenvolvidos pela Trybe.
--->
+- Desenvolvido por: [Gabriel Sousa](https://www.linkedin.com/in/gabriel-dev-biotec/)
+- Acesse o projeto: [Sistema Solar](https://project-solar-system-xi.vercel.app/)
+
+<summary><strong>Tecnologias exercitadas:</strong></summary><br />
+  
+ * JavaScript <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="20" height="20"/>;
+ * React <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="20" height="20"/>.
+ 
+ <summary><strong>Habilidades desenvolvidas:</strong></summary><br />
+  
+ * Utilizar JSX no React;
+ * Utilizar corretamente o método render() para renderizar os componentes;
+ * Utilizar import para trazer componentes em diferentes arquivos;
+ * Criar componentes de classe em React;
+ * Criar múltiplos componentes a partir de um array;
+ * Fazer uso de props corretamente;
+ * Fazer uso de PropTypes para validar as props de um componente.
